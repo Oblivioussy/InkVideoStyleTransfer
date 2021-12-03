@@ -1,6 +1,6 @@
 # InkVideoStyleTransfer
 
-This is the official implemet of Instance-Aware Coherent Video Style Transfer for Chinese Ink Wash Painting (IJCAI-21).
+This is the official implemet of **Instance-Aware Coherent Video Style Transfer for Chinese Ink Wash Painting** (IJCAI-21).
 
 ## Envienment Requirements 
 
