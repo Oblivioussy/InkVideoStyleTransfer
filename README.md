@@ -5,9 +5,10 @@ This is the official implemet of **Instance-Aware Coherent Video Style Transfer 
 ## Envienment Requirements 
 
 Pytorch >= 1.4
+
 Detectron2
 
-## Tran & Eval
+## Train & Eval
 run train_up.sh or test_up.sh to train or evaluate this model.
 
 Remember to modify the paths in these two files.
