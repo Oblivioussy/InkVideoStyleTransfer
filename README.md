@@ -9,7 +9,7 @@ Pytorch >= 1.4
 Detectron2
 
 ## Train & Eval
-run train_up.sh or test_up.sh to train or evaluate this model.
+run train_simple.sh or test_simple.sh to train or evaluate this model.
 
 Remember to modify the paths in these two files.
 
